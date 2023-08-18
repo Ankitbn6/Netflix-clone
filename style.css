@@ -135,6 +135,7 @@
 }
 .television{
     height: 500px;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -142,11 +143,11 @@
 }
 .television>img{
     position: absolute;
-    top: 20px;
-    left: 56%;
+    /* top: 5%;
+    left: 46%; */
 }
 #second-video{
-    height: 47%;
+    height: 42%;
     margin-bottom: 110px;
     margin-right: 30px;
 }
